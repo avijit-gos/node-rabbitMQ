@@ -36,5 +36,5 @@ Whenever a task status (e.g., `todo`, `progress`, `done`, etc.) is pushed into a
 
 ## Start RabbitMQ in Docker
 
-*docker pull rabbitmq:management \
+* docker pull rabbitmq:management
 * docker run -d -p 5672:5672 -p 15672:15672 rabbitmq:management
